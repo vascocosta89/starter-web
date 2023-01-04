@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 This is a mock
 
 ##How to contribute
+
+Also a mock
