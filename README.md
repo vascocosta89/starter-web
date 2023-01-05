@@ -21,3 +21,5 @@ Mocked
 ##Big mock
 
 Big mocker
+
+##Copyright
